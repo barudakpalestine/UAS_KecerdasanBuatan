@@ -1,1 +1,1 @@
-# UAS_KecerdasanBuatan
+assallamualaikum Wr Wb ini adalah Project Uas Kecerdasan Buatan yang dimana membuat implementasi Ai dengan menggunakan Python. Saya mendapat referensi di YT dan ini link YTnya https://youtu.be/7eh4d6sabA0?si=tUz4t6hDsFtp6Du5
